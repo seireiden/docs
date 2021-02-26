@@ -16,3 +16,51 @@ Well, I looked at it and fell in love with it. Also, because of it's graph view.
 Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
 
 
+## Why Obsidian
+
+Well, I looked at it and fell in love with it. Also, because of it's graph view.
+
+
+```bash
+    snap install --dangerous <obsidian-pkg>
+```
+
+Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
+
+
+## Why Obsidian
+
+Well, I looked at it and fell in love with it. Also, because of it's graph view.
+
+
+```bash
+    snap install --dangerous <obsidian-pkg>
+```
+
+Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
+
+
+## Why Obsidian
+
+Well, I looked at it and fell in love with it. Also, because of it's graph view.
+
+
+```bash
+    snap install --dangerous <obsidian-pkg>
+```
+
+Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
+
+
+## Why Obsidian
+
+Well, I looked at it and fell in love with it. Also, because of it's graph view.
+
+
+```bash
+    snap install --dangerous <obsidian-pkg>
+```
+
+Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
+
+
