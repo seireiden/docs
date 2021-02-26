@@ -1,17 +1,18 @@
-# Headline
+# docs
 
-> An `awesome` project.
+> An `awesome` theme.
 
-Lorem ipsum dolor sit amet, gravida semper suspendisse ipsum, nam maecenas curabitur. Volutpat orci maecenas dui elementum. Massa at sollicitudin nec erat, sit libero dolor suspendisse amet, adipiscing dolor sed massa. Fermentum lectus. Est dignissim ac tempor, accusantium hac elit massa dictumst soluta
+Main agenda is to use this as a template for my notes, which will be made using [Obsidian](https://obsidian.md/)
 
-## Libero dictumst mauris
+## Why Obsidian
 
-Tempus etiam, justo nullam vel eros et. Conubia integer. Amet elit nulla, eu tortor fugit pede arcu wisi, elit maecenas commodo integer et vitae nonummy. 
+Well, I looked at it and fell in love with it. Also, because of it's graph view.
 
 
 ```bash
-    Lorem Ipsum
+    snap install --dangerous <obsidian-pkg>
 ```
 
-Curabitur amet sed voluptas convallis, urna sodales vivamus dui id minim eget, dapibus nostra dignissim, vestibulum mauris a tortor morbi lobortis eu, felis odio. Eu ligula taciti cras, faucibus ac vel quis donec sodales. Lacinia euismod sed semper donec. Magna aliquam sed non, vestibulum cursus sed ut vivamus felis porttitor, vestibulum nibh augue a pede, vehicula integer ut nunc proin. 
+Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
+
 
