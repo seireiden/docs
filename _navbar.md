@@ -1,3 +1,7 @@
-<!-- - [Home]()
+<!-- _navbar.md -->
 
-- [Quick Start](quickstart.md) -->
+- [Home]()
+
+- [Quick Start](quickstart.md)
+
+- [fuck you cunt](https://theuselessweb.com)
