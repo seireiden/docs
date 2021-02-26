@@ -13,4 +13,13 @@ Well, I looked at it and fell in love with it. Also, because of it's graph view.
     snap install --dangerous <obsidian-pkg>
 ```
 
-Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtfull of them.
+Apparently snapd doesn't let you install unsigned packages easily, and that's very thoughtful of them.
+
+
+
+# Obsidian Files
+
+
+## Intro
+
+* [idea file](project.md)
