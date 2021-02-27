@@ -1,4 +1,4 @@
-# docs
+# Seireiden
 
 > An `awesome` theme.
 
