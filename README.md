@@ -23,3 +23,8 @@ Apparently snapd doesn't let you install unsigned packages easily, and that's ve
 ## Intro
 
 * [idea file](project.md)
+
+
+# Flutter Docs
+
+* [How To ->](flutter/how-to.md)
